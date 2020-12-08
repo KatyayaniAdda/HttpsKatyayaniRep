@@ -1,4 +1,4 @@
-package kavya.javaPractice.CoreJava;
+package com.kavya.coreJavaPra;
 
 public interface Interface1 {
 //	public abstract void m1();

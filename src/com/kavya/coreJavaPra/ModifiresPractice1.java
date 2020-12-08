@@ -1,4 +1,4 @@
-package kavya.javaPractice.CoreJava;
+package com.kavya.coreJavaPra;
 
 public class ModifiresPractice1 {
 	private int a1=10;
