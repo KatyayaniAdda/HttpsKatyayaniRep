@@ -32,6 +32,10 @@ public class StringPractices2 {
 		}
 		boolean b1 = check.regionMatches(15, checkString2,5,16);
 		System.out.println(b1);
+		System.out.println("checking String builder equals");
+		System.out.println(sb1.equals(sb1));
+		
+		
 
 	}
 }
