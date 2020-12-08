@@ -50,7 +50,8 @@ public class WrapperClassPractice {
 		Double d =34.345;
 		Boolean b3 = false;
 		System.out.println(wrapperInt2.hashCode());
-		
+		Runtime rt =Runtime.getRuntime();
+		System.out.println(rt.availableProcessors());
 		
 				
 		
